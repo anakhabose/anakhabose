@@ -18,3 +18,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+JavaScript, TypeScript, C, Python, HTML, CSS
+
+### 📚 Libraries & Frameworks
+React.js, Redux, Express.js, Bootstrap, Tailwind CSS
+
+### 🧰 Web Development Tools
+Node.js, VS Code, Git, GitHub, Vercel, AWS, Firebase
+
+### ☁️ Cloud & Databases
+MongoDB, MySQL, PostgreSQL
+
+### 📖 Relevant Coursework
+- Data Structures & Algorithms
+- Operating Systems
+- Object Oriented Programming
+- Database Management Systems
+
+---
