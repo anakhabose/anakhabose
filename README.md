@@ -1,7 +1,6 @@
 ## Hi, I'm Anakha Bose 👋
 
-I'm a passionate full-stack developer specializing in the **MERN** stack.  
-I love building beautiful and responsive web applications.
+Aspiring MERN Stack Developer with strong foundation in JavaScript, React, Node.js, and MongoDB, aiming to build scalable web applications.
 
 
 <!--
