@@ -1,5 +1,9 @@
 ## Hi, I'm Anakha Bose 👋
 
+I'm a passionate full-stack developer specializing in the **MERN** stack.  
+I love building beautiful and responsive web applications.
+
+
 <!--
 **anakhabose/anakhabose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
